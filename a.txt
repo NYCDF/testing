@@ -1,3 +1,7 @@
 szkjdlaisd;hvglauskydfvh;ASDcfhgasli;h
+<<<<<<< HEAD
 
 HOLA
+=======
+shivani was here too
+>>>>>>> 41f9ee863831826269e4fb04f79510ad61bab1b2
