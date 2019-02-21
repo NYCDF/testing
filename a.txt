@@ -4,4 +4,10 @@ szkjdlaisd;hvglauskydfvh;ASDcfhgasli;h
 HOLA
 =======
 shivani was here too
+<<<<<<< HEAD
 >>>>>>> 41f9ee863831826269e4fb04f79510ad61bab1b2
+=======
+
+
+this is a test - sammy
+>>>>>>> e2e7528e5f1f0d70ada03ec0e71ea868bc0a7019
